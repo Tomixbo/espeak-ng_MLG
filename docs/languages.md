@@ -84,6 +84,7 @@ To check, what languages are supported by distributed version, run `espeak-ng --
 | `art`       | `jbo`             | Constructed           | Lojban                      |                        |
 | `poz`       | `mi`              | Malayo-Polynesian     | Māori                       |                        |
 | `zls`       | `mk`              | South Slavic          | Macedonian<sup>\[1,2\]</sup> |                       |
+| `map`       | `mlg`             | Austronesian          | Malagasy                    |                        |
 | `poz`       | `ms`              | Malayo-Polynesian     | Malay                       |                        |
 | `dra`       | `ml`              | Dravidian             | Malayalam                   |                        |
 | `sem`       | `mt`              | Semitic               | Maltese                     |                        |

@@ -159,40 +159,41 @@ phoneme @-   //  very short schwa
   FMT(vowel/@-)
 endphoneme
 
-
-phoneme a // tr**a**p
-  vwl starttype #a endtype #a
-  length 180
-  FMT(vowel/a)
+phoneme uə
+  vwl
+  ipa uə
+  length 250
 endphoneme
 
-
-phoneme e // German **eh**, French **é**
-  vwl starttype #e endtype #e
-  length 170
-  FMT(vowel/e)
+phoneme aU
+  vwl
+  ipa aʊ
+  length 250
 endphoneme
 
+phoneme a
+  vwl
+  length 150
+endphoneme
+
+phoneme e
+  vwl
+  length 150
+endphoneme
 
 phoneme i
-  vwl starttype #i endtype #i
-  length 170
-  IfNextVowelAppend(;)
-  FMT(vowel/i)
+  vwl
+  length 150
 endphoneme
 
-
-phoneme o // German **oo**, French **o**
-  vwl starttype #o endtype #o
-  length 170
-  FMT(vowel/oo)
+phoneme o
+  vwl
+  length 150
 endphoneme
-
 
 phoneme u
-  vwl starttype #u endtype #u
-  length 170
-  FMT(vowel/u)
+  vwl
+  length 150
 endphoneme
 
 
@@ -2081,3 +2082,6 @@ include ph_karakalpak
 
 phonemetable ps base1
 include ph_pashto
+
+phonemetable mlg base
+include ph_malagasy

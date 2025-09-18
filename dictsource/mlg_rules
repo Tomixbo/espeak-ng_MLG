@@ -1,0 +1,155 @@
+.replace
+ô    'o
+
+.L20   i u
+.L40   a o e
+
+// Diphthongues selon position
+.group ao
+ao   o
+ao   aU   (_  // fin de mot → /aʊ/
+
+.group oa
+oa   ua
+oa   u@   (_  // fin de mot → /uə/
+
+// Voyelles fondamentales
+.group a
+a    a
+
+.group e
+e    e
+
+.group i
+i    i
+
+.group o
+o    u     // o non accentué → /u/
+
+.group ô
+ô    o     // ô → /o/
+
+.group ò
+ò    'o     
+
+.group à
+à    'a    // accent tonique sur à
+
+.group è
+è    'e    
+
+.group ì
+ì    'i    
+
+.group ỳ
+ỳ    'y    
+
+// Occlusives prénasalées (nasale + occlusive)
+.group mb
+mb   mb
+
+.group mp
+mp   mp
+
+.group nd
+nd   nd
+
+.group ng
+ng   NG     // ŋɡ
+
+.group nj
+nj   NJ     // ɲdʒ
+
+.group nt
+nt   nt
+
+.group ns
+ns   ns
+
+// Affriquées et rétroflexes
+.group j
+j    DZ      // affriquée voisée /d͡z/
+
+.group s
+s    SH      // entre s et ʃ
+
+.group ts
+ts   TS      // affriquée rétroflexe /ʈ͡ʂ/
+
+.group tr
+tr   TR      // t roulé rétroflexe /ʈʳ/
+
+.group dr
+dr   DR      // d roulé rétroflexe /ɖʳ/
+
+// Consonnes simples explicitement redéfinies
+.group h
+h    h        // quasi muet
+
+.group p
+p    p
+
+.group b
+b    b
+
+.group t
+t    t
+
+.group d
+d    d
+
+.group f
+f    f
+
+.group k
+k    k
+
+.group g
+g    g        // /g/
+
+.group m
+m    m
+
+.group n
+n    n
+
+.group l
+l    l
+
+.group r
+r    r
+
+.group v
+v    v
+
+.group z
+z    z
+
+.group w
+w    w
+
+.group y
+y    i        // final → /i/
+
+.group lo
+lo   lW   (_
+.group go
+go   gW   (_
+.group ro
+ro   rW   (_
+.group vo
+vo   vW   (_
+.group mo
+mo   mW   (_
+.group no
+no   nW   (_
+.group bo
+bo   bW   (_
+.group do
+do   dW   (_
+.group to
+to   tW   (_
+.group so
+so   sW   (_
+.group zo
+zo   zW   (_

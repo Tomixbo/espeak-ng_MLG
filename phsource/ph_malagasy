@@ -1,0 +1,322 @@
+// -------------------------
+// Phonèmes spécifiques Malagasy
+// -------------------------
+
+// Voyelles simples
+phoneme a
+  vwl
+  ipa a
+  length 150
+endphoneme
+
+phoneme e
+  vwl
+  ipa e
+  length 150
+endphoneme
+
+phoneme i
+  vwl
+  ipa i
+  length 150
+endphoneme
+
+phoneme o
+  vwl
+  ipa u
+  length 150
+endphoneme
+
+phoneme u
+  vwl
+  ipa u
+  length 150
+endphoneme
+
+phoneme a_
+  vwl
+  ipa a
+  length 150
+endphoneme
+
+phoneme o_
+  vwl
+  ipa o
+  length 150
+endphoneme
+
+// Diphthongues
+phoneme ao
+  vwl
+  ipa o
+  length 250
+endphoneme
+
+phoneme aU
+  vwl
+  ipa aʊ
+  length 250
+endphoneme
+
+phoneme oa
+  vwl
+  ipa o
+  length 250
+endphoneme
+
+phoneme u@
+  vwl
+  ipa uə
+  length 250
+endphoneme
+
+// Occlusives prénasalées (nasale + stop)
+phoneme mb
+  stp
+  ipa mb
+  length 180
+endphoneme
+
+phoneme mp
+  stp
+  ipa mp
+  length 180
+endphoneme
+
+phoneme nd
+  stp
+  ipa nd
+  length 180
+endphoneme
+
+phoneme NG
+  stp
+  ipa ŋɡ
+  length 180
+endphoneme
+
+phoneme NJ
+  afr
+  ipa ɲd͡ʒ
+  length 180
+endphoneme
+
+phoneme nt
+  stp
+  ipa nt
+  length 180
+endphoneme
+
+phoneme ns
+  afr
+  ipa ns
+  length 180
+endphoneme
+
+phoneme n
+  nas
+  ipa n
+  length 150
+endphoneme
+
+// Affriquées et rétroflexes
+phoneme DZ
+  afr
+  ipa d͡z
+  length 150
+endphoneme
+
+phoneme SH
+  frc
+  ipa ʃ
+  length 150
+endphoneme
+
+phoneme TS
+  afr
+  ipa ʈ͡ʂ
+  length 150
+endphoneme
+
+phoneme TR
+  stp
+  ipa ʈʳ
+  length 150
+endphoneme
+
+phoneme DR
+  stp
+  ipa ɖʳ
+  length 150
+endphoneme
+
+phoneme j
+  afr
+  ipa d͡z
+  length 150
+endphoneme
+
+// Consonnes simples
+phoneme b
+  stp
+  ipa b
+  length 120
+endphoneme
+
+phoneme d
+  stp
+  ipa d
+  length 120
+endphoneme
+
+phoneme f
+  frc
+  ipa f
+  length 120
+endphoneme
+
+phoneme g
+  stp
+  ipa ɡ
+  length 120
+endphoneme
+
+phoneme h
+  frc
+  ipa h
+  length 80
+endphoneme
+
+phoneme k
+  stp
+  ipa k
+  length 120
+endphoneme
+
+phoneme l
+  liquid
+  ipa l
+  length 120
+endphoneme
+
+phoneme m
+  nas
+  ipa m
+  length 120
+endphoneme
+
+phoneme n
+  nas
+  ipa n
+  length 120
+endphoneme
+
+phoneme p
+  stp
+  ipa p
+  length 120
+endphoneme
+
+phoneme r
+  liquid
+  ipa r
+  length 120
+endphoneme
+
+phoneme t
+  stp
+  ipa t
+  length 120
+endphoneme
+
+phoneme v
+  frc
+  ipa v
+  length 120
+endphoneme
+
+phoneme z
+  frc
+  ipa z
+  length 120
+endphoneme
+
+// Approximantes corrigées : utiliser 'liquid' plutôt que 'app'
+phoneme w
+  liquid
+  ipa w
+  length 120
+endphoneme
+
+phoneme y
+  liquid
+  ipa i
+  length 120
+endphoneme
+
+phoneme lW
+  liquid
+  ipa lʷ
+  length 120
+endphoneme
+
+phoneme gW
+  stp
+  ipa ɡʷ
+  length 120
+endphoneme
+
+
+phoneme rW
+  liquid
+  ipa rʷ
+  length 120
+endphoneme
+
+phoneme vW
+  frc
+  ipa vʷ
+  length 120
+endphoneme
+
+phoneme mW
+  nas
+  ipa mʷ
+  length 120
+endphoneme
+
+phoneme nW
+  nas
+  ipa nʷ
+  length 120
+endphoneme
+
+phoneme bW
+  stp
+  ipa bʷ
+  length 120
+endphoneme
+
+phoneme dW
+  stp
+  ipa dʷ
+  length 120
+endphoneme
+
+phoneme tW
+  stp
+  ipa tʷ
+  length 120
+endphoneme
+
+phoneme sW
+  frc
+  ipa sʷ
+  length 120
+endphoneme
+
+phoneme zW
+  frc
+  ipa zʷ
+  length 120
+endphoneme
