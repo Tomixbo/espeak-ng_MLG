@@ -7,7 +7,7 @@
 // Diphthongues selon position
 .group ao
 ao   o
-ao   aU   (_  // fin de mot → /aʊ/
+ao   'aU   (_  // fin de mot → /aʊ/
 
 .group oa
 oa   ua
@@ -139,27 +139,27 @@ w    w
 y    i        // final → /i/
 
 .group lo
-lo   lW   (_
+lo   =lW   (_
 .group go
-go   gW   (_
+go   =gW   (_
 .group ro
-ro   rW   (_
+ro   =rW   (_
 .group vo
-vo   vW   (_
+vo   =vW   (_
 .group mo
-mo   mW   (_
+mo   =mW   (_
 .group no
-no   nW   (_
+no   =nW   (_
 .group bo
-bo   bW   (_
+bo   =bW   (_
 .group do
-do   dW   (_
+do   =dW   (_
 .group to
-to   tW   (_
+to   =tW   (_
 .group so
-so   sW   (_
+so   =sW   (_
 .group zo
-zo   zW   (_
+zo   =zW   (_
 
 // -na
 .group na
