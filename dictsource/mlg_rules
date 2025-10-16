@@ -75,10 +75,15 @@ s    SH      // entre s et ʃ
 
 .group ts
 ts   TS      // affriquée rétroflexe /ʈ͡ʂ/
+tsika   TS'ika   (_
 
 .group tr
 tr   TR      // t roulé rétroflexe /ʈʳ/
 tra  (_S3t+   %tra
+tro  (_S3t+   %trW
+trao  tr'aU
+tray  tr'ai
+trareo  trar'eu
 
 .group dr
 dr   DR      // d roulé rétroflexe /ɖʳ/
@@ -165,7 +170,9 @@ nareo   nar'eu   (_      // -nareo
 // -ka
 .group ka
 ka   (_S2t+   %ka
-
+kao  k'aU
+kay  k'ai
+kareo  kar'eu
 
 
 .group ko
