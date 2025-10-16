@@ -103,9 +103,7 @@ d    d
 f    f
 
 .group k
-k    k
-ka    =ka     (_
-ko       =ku           (_      // -ko [ku]
+k   k
 
 .group g
 g    g        // /g/
@@ -114,11 +112,7 @@ g    g        // /g/
 m    m
 
 .group n
-n    n
-na    =na     (_
-nao      =naU         (_      // -nao [n aU]
-nay      =nai         (_      // -nay [n ai]
-nareo    =nareu     (_      // -nareo
+n   n
 
 .group l
 l    l
@@ -161,10 +155,20 @@ so   sW   (_
 .group zo
 zo   zW   (_
 
+.group ka
+ka   (_S2   %ka
+ko   (_S2   %ku  // -ko [ku]
+
+.group na
+na   (_S2   %na    
+nao   n'aU   (_      // -nao [n aU]
+nay   n'ai   (_      // -nay [n ai]
+nareo   nar'eu   (_      // -nareo
+
 // -ny
 .group ny
-ny        =ni     (_)
+ny   (_S2   %ni     
 
 // -ntsika
 .group nt
-ntsika    =nTSika (_)
+ntsika   nTS'ika   (_
