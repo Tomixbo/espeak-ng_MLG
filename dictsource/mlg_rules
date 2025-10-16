@@ -153,3 +153,17 @@ to   tW   (_
 so   sW   (_
 .group zo
 zo   zW   (_
+
+
+// Accent : finales faibles → pousse l’accent d’1 syllabe à gauche
+ka    =ka     (_
+tra   =tra   (_
+na    =na     (_
+
+// Possessifs (fin de mot) : accent sur la syllabe précédente du radical
+ko       =ku           (_      // -ko [ku]
+nao      =naU         (_      // -nao [n aU]
+ny       =ni           (_      // -ny [ni]
+nay      =nai         (_      // -nay [n ai]
+ntsika   =nTSika    (_      // -ntsika
+nareo    =nareu     (_      // -nareo
