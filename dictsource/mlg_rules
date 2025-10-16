@@ -78,7 +78,7 @@ ts   TS      // affriquée rétroflexe /ʈ͡ʂ/
 
 .group tr
 tr   TR      // t roulé rétroflexe /ʈʳ/
-tra   =TRa   (_
+tra  (_S3t+   %tra
 
 .group dr
 dr   DR      // d roulé rétroflexe /ɖʳ/
@@ -155,21 +155,26 @@ so   sW   (_
 .group zo
 zo   zW   (_
 
-.group ka
-ka   (_S2   %ka
-
-.group ko
-ko   (_S2   %ku  // -ko [ku]
-
+// -na
 .group na
-na   (_S2   %na    
+na   (_S2t+   %na
 nao   n'aU   (_      // -nao [n aU]
 nay   n'ai   (_      // -nay [n ai]
 nareo   nar'eu   (_      // -nareo
 
+// -ka
+.group ka
+ka   (_S2t+   %ka
+
+
+
+.group ko
+ko   (_S2t+   %ku  // -ko [ku]
+
+
 // -ny
 .group ny
-ny   (_S2   %ni     
+ny   (_S2t+   %ni     
 
 // -ntsika
 .group nt
