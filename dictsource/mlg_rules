@@ -78,6 +78,7 @@ ts   TS      // affriquée rétroflexe /ʈ͡ʂ/
 
 .group tr
 tr   TR      // t roulé rétroflexe /ʈʳ/
+tra   =TRa   (_
 
 .group dr
 dr   DR      // d roulé rétroflexe /ɖʳ/
@@ -103,6 +104,8 @@ f    f
 
 .group k
 k    k
+ka    =ka     (_
+ko       =ku           (_      // -ko [ku]
 
 .group g
 g    g        // /g/
@@ -112,6 +115,10 @@ m    m
 
 .group n
 n    n
+na    =na     (_
+nao      =naU         (_      // -nao [n aU]
+nay      =nai         (_      // -nay [n ai]
+nareo    =nareu     (_      // -nareo
 
 .group l
 l    l
@@ -154,17 +161,10 @@ so   sW   (_
 .group zo
 zo   zW   (_
 
-// default group for "non of the above"
-.group
-// Accent : finales faibles → pousse l’accent d’1 syllabe à gauche
-ka    =ka     (_
-tra   =tra   (_
-na    =na     (_
+// -ny
+.group ny
+ny        =ni     (_)
 
-// Possessifs (fin de mot) : accent sur la syllabe précédente du radical
-ko       =ku           (_      // -ko [ku]
-nao      =naU         (_      // -nao [n aU]
-ny       =ni           (_      // -ny [ni]
-nay      =nai         (_      // -nay [n ai]
-ntsika   =nTSika    (_      // -ntsika
-nareo    =nareu     (_      // -nareo
+// -ntsika
+.group nt
+ntsika    =nTSika (_)
