@@ -154,7 +154,8 @@ so   sW   (_
 .group zo
 zo   zW   (_
 
-
+// default group for "non of the above"
+.group
 // Accent : finales faibles → pousse l’accent d’1 syllabe à gauche
 ka    =ka     (_
 tra   =tra   (_
