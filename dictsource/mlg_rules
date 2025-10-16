@@ -11,7 +11,7 @@ ao   aU   (_  // fin de mot → /aʊ/
 
 .group oa
 oa   ua
-oa   u@   (_  // fin de mot → /uə/
+oa   'u@   (_  // fin de mot → /uə/
 
 // Voyelles fondamentales
 .group a
@@ -81,6 +81,7 @@ tsika   TS'ika   (_
 tr   TR      // t roulé rétroflexe /ʈʳ/
 tra  (_S3t+   %tra
 tro  (_S3t+   %trW
+trany  (_S5t+   %trani
 trao  tr'aU
 tray  tr'ai
 trareo  trar'eu
@@ -170,6 +171,7 @@ nareo   nar'eu   (_      // -nareo
 // -ka
 .group ka
 ka   (_S2t+   %ka
+kany   (_S4t+   %kany    
 kao  k'aU
 kay  k'ai
 kareo  kar'eu
